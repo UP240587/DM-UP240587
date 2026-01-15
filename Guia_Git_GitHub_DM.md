@@ -132,6 +132,20 @@ Porque el proyecto usa la rama main.
 
 ---
 
+## 📝 Extra
+
+```bash
+git log
+```
+Muestra el historial completo de commits.
+
+```bash
+git log --oneline
+```
+Muestra una versión compacta del historial.
+
+---
+
 ## Paso 8: Abrir su editor de codigo
 
 ```bash
